@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there. I'm Tim
+I explore statistical methods for understanding and forecasting complex, uncertain phenomena, with particular emphasis on Bayesian approaches. My primary research focuses on forecasting individual migraine attacks—an ideal model system for studying how humans experience and respond to uncertainty. Migraine prediction embodies core elements of human experience: aversive events that may arise unpredictably, the belief systems and heuristics people construct to make sense of them, the temporal delays between cause and effect, and the deeply individual nature of causal processes. Through this lens, prediction becomes not only a statistical challenge but also a study of human cognition, behavior, and adaptation.
 
 <!--
 **thoule1/thoule1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
